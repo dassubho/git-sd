@@ -23,6 +23,7 @@
    <body>
       
       <h2>AJS Application with git</h2>
+      
       <div ng-app = "mainApp" ng-controller = "studentController">         
          <form name = "studentForm" novalidate>
             <table border = "0">
